@@ -16,6 +16,10 @@
 <img width="420px" src="https://github-readme-stats.vercel.app/api?username=gabrielajc&show_icons=true&theme=midnight-purple&hide=contribs,issues">
     
 <img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajc&layout=compact&theme=midnight-purple&hide=html">
+    
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=rodrigossff91&show_icons=true&theme=midnight-purple&hide=contribs,issues">
+    
+<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigossff91&layout=compact&theme=midnight-purple&hide=html">
 
 </div>
 
